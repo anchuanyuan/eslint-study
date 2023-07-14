@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "@mapbox/eslint-plugin-script-tags": "^1.0.0",
+    "eslint": "^8.32.0",
+    "eslint-plugin-html": "^7.1.0"
+  }
+}
